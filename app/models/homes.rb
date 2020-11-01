@@ -1,0 +1,2 @@
+class Homes < ApplicationRecord
+end
